@@ -39,6 +39,10 @@ header h1{
     padding: 16px;
 
 }
+.card:hover{
+    opacity: 0.9;
+    scale: 1.1;
+}
 .card img{
     height: 500px;
     width: 100%;
